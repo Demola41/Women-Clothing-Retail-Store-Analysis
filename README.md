@@ -1,6 +1,6 @@
 # Women's Clothing Sentiment & Review Analysis
-<a href="https://github.com/Demola41/Women-Clothing-Retail-Store-Analysis/blob/main/Women's%20Clothing%20E-Commerce%20Review%20Dashboard%201.png">][Dashboard Preview 1]</a>
-<a href="https://github.com/Demola41/Women-Clothing-Retail-Store-Analysis/blob/main/Women's%20Clothing%20E-Commerce%20Review%20Dashboard%202.png">][Dashboard Preview 2]</a>
+<a href="https://github.com/Demola41/Women-Clothing-Retail-Store-Analysis/blob/main/Women's%20Clothing%20E-Commerce%20Review%20Dashboard%201.png">[Dashboard Preview 1]</a>
+<a href="https://github.com/Demola41/Women-Clothing-Retail-Store-Analysis/blob/main/Women's%20Clothing%20E-Commerce%20Review%20Dashboard%202.png">[Dashboard Preview 2]</a>
 ## 1. Situation
 Analyzed a dataset of **23,486 customer reviews** to evaluate product sentiment and recommendation patterns for a women's clothing e-commerce retailer.
 ## 2. Task
